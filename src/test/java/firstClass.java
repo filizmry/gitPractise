@@ -3,5 +3,6 @@ public class firstClass {
         System.out.println("merhaba");
         System.out.println("mry");
         System.out.println("hii");
+        System.out.println("ttt");
     }
 }
