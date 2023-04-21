@@ -4,5 +4,6 @@ public class firstClass {
         System.out.println("mry");
         System.out.println("hii");
         System.out.println("ttt");
+        System.out.println("rrr");
     }
 }
