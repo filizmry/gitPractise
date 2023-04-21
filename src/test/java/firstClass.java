@@ -5,5 +5,6 @@ public class firstClass {
         System.out.println("hii");
         System.out.println("ttt");
         System.out.println("rrr");
+        System.out.println("master");
     }
 }
